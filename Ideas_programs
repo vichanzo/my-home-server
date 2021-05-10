@@ -1,0 +1,48 @@
+#based on debian stable
+
+1  run as a file server / backup repository for backing up my other computers
+2  run Dockers 
+3  run as a webserver (LEMP server)
+4  run other Machines/VM's
+5  Run as home automation server (HASS.IO Home Assistant)
+6  Media server (Jelly Fin / Emby / Plex / Kodi)
+7  Block ads and websites tracking using internal DNS server
+8  Reverse Proxy (using squid or Dans Gaurdian)
+9  System monitoring (Graphana)
+10 SIEM / Logging (Wazuh, OSSEC/OSSIM, Logstash, Greylog, Kibana / ELK) 
+
+# File server features
+- do not want RAID (main benefits from striping to get speed come with drawbacks I don't want)
+- I want to be able to take any drive out and put on a different computer and still access my files (OK if some minor config is needed)
+- I don't want my files to be at risk if my RAID controller or SW RAID gets messed up.  
+- I want some resiliency in case a hard drive fails (use Snap RAID or similar) so that I can keep running if one drive fails (no or minimal data loss)
+- I want some protection from my own stupid mistakes and ability to roll back changes (run BTFS or similar with sanpshots)
+- Make at least 2 copies of the most important files (one copy on a different drive)
+
+Most important files: (one copy on Merged pool, one copy on NTFS SSD)
+ - Photos and "Home Videos"
+ - Tax files / financial documents
+ - Personal documents (word docs, xl, other projects)
+
+Medium importance:
+ - files ripped from my personal DVD's and CD's
+ - VM's and Backups of other computers (the data is most important)
+
+Least important files:
+ - software downloaded from the internet
+ - Media downloaded (movies and music) 
+
+#programs 
+Docker
+kvm-qemu
+cockpit
+webmin
+LEMP (Linux Nginx MySQL PHP)
+
+
+PiHole or Adguard
+
+Dockers
+- Heimdall
+- Jellyfin
+- Home Assistant
