@@ -5,16 +5,21 @@ SNAPRAID - make regular (daily?) parity, this will allow for one drive failure w
 
 
 5 Drives:
- 1) Boot
- 2) NTFS "Copy of most important files" - this is a FUSE Clone (ChironFS) or rSync copy of all my most important files
- 
+ 0) Boot (BTRFS)
+ 1) NTFS    1 TB SSD  "Copy of most important files" - this is a FUSE Clone (ChironFS) or rSync copy of all my most important files
+            I can take this drive out any time I want and put in a USB case to view these files on a Windows computer 
+ 2) Data #1 2 TB HDD  (EXT4 or BTRFS)
+ 3) Data #2 2 TB HDD  (EXT4 or BTRFS)
+ 4) Data #3 2 TB HDD  (EXT4 or BTRFS)
+ 5) Parity
  
  
  cam (or DISM or photos) - my personal photos and home videos
   year, (month), Occation
- finance
+ finance (backup to multiple cloud in a veracrypt vault)
   - Taxes
- 
+  - bank statements
+  - password vault
  
  docs - project files and non-critical files
  
@@ -30,5 +35,18 @@ SNAPRAID - make regular (daily?) parity, this will allow for one drive failure w
        Category, Year, Title
   - audio (sermons)
       Speaker, Date-title-topic
-      
+ 
+ 
+ Backups
+ 
+ VMs
+ 
+ 
+ Software
+  ISO
+  INSTALLS
+  SOURCE
+  Configs
+
+  
    
