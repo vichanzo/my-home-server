@@ -1,0 +1,34 @@
+
+BTRFS - Use on the "OS" Disk to allow me to rollback changes (I do something dumb and I can go back a week or 4)
+MERGERFS - make multiple drives appear as one
+SNAPRAID - make regular (daily?) parity, this will allow for one drive failure without losing more than 1 days data.
+
+
+5 Drives:
+ 1) Boot
+ 2) NTFS "Copy of most important files" - this is a FUSE Clone (ChironFS) or rSync copy of all my most important files
+ 
+ 
+ 
+ cam (or DISM or photos) - my personal photos and home videos
+  year, (month), Occation
+ finance
+  - Taxes
+ 
+ 
+ docs - project files and non-critical files
+ 
+ 
+ media
+  - movies
+  - tv(shows)
+  - music
+      Artist, Album
+  - books (audio books)
+      Author, Title
+  - videos (favorites from youtube/ lbry / bitchute)
+       Category, Year, Title
+  - audio (sermons)
+      Speaker, Date-title-topic
+      
+   
