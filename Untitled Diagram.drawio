@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-12T19:12:50.275Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.69" etag="Yk0c4kvAOlPMgPsdHvUM" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-12T20:21:50.441Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.69" etag="87LkydMKEEMvbJ3IDcW6" version="21.0.6" type="github">
   <diagram name="Page-1" id="CxP3ihrh33-720mjl4FX">
     <mxGraphModel dx="5828" dy="2090" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -76,6 +76,12 @@
         <mxCell id="Xmdy9W3AYmFhp-Yp_AOq-91" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b style=&quot;background-color: initial; font-size: 19px;&quot;&gt;Access Point&lt;/b&gt;&lt;/div&gt;&lt;b style=&quot;font-size: 19px;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;TP Link Omada&lt;/b&gt;&lt;/div&gt;&lt;/b&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.wi_fi;" vertex="1" parent="Xmdy9W3AYmFhp-Yp_AOq-90">
           <mxGeometry x="840" y="170" width="102" height="102" as="geometry" />
         </mxCell>
+        <mxCell id="Xmdy9W3AYmFhp-Yp_AOq-133" value="VLAN 10&lt;br&gt;DMZ" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="Xmdy9W3AYmFhp-Yp_AOq-90">
+          <mxGeometry x="310" y="102" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Xmdy9W3AYmFhp-Yp_AOq-134" value="VLAN 20&lt;br&gt;Infratructure" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="Xmdy9W3AYmFhp-Yp_AOq-90">
+          <mxGeometry x="700" y="92" width="280" height="48" as="geometry" />
+        </mxCell>
         <mxCell id="Xmdy9W3AYmFhp-Yp_AOq-61" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="170" width="200" height="470" as="geometry" />
         </mxCell>
@@ -118,7 +124,7 @@
         <mxCell id="Xmdy9W3AYmFhp-Yp_AOq-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="Xmdy9W3AYmFhp-Yp_AOq-99" source="Xmdy9W3AYmFhp-Yp_AOq-64" target="Xmdy9W3AYmFhp-Yp_AOq-64">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Xmdy9W3AYmFhp-Yp_AOq-73" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&amp;nbsp; DVD Player - Ripper&lt;/span&gt;" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;align=left;strokeColor=none;fillColor=none;" vertex="1" parent="Xmdy9W3AYmFhp-Yp_AOq-99">
+        <mxCell id="Xmdy9W3AYmFhp-Yp_AOq-73" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&amp;nbsp; DVD Player - Ripper&lt;br&gt;&amp;nbsp; Game Consoles&lt;br&gt;&lt;/span&gt;" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;align=left;strokeColor=none;fillColor=none;" vertex="1" parent="Xmdy9W3AYmFhp-Yp_AOq-99">
           <mxGeometry x="208" y="449.01315789473665" width="300" height="118.42105263157895" as="geometry" />
         </mxCell>
         <mxCell id="Xmdy9W3AYmFhp-Yp_AOq-78" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/iphone-7-airpods-icons-solid-style/24/apple-tv-box-128.png" vertex="1" parent="Xmdy9W3AYmFhp-Yp_AOq-99">
@@ -216,6 +222,9 @@
         </mxCell>
         <mxCell id="Xmdy9W3AYmFhp-Yp_AOq-128" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#000000;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam2.laptop;" vertex="1" parent="Xmdy9W3AYmFhp-Yp_AOq-131">
           <mxGeometry x="358.0851063829787" y="50" width="119.36170212765957" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xmdy9W3AYmFhp-Yp_AOq-135" value="VLAN 20&lt;br&gt;Infratructure" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="500" y="175" width="280" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
