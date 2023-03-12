@@ -1,1 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2023-03-12T17:43:23.834Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.69" version="21.0.6" etag="l4oORf9lkyeknani7pWE" type="github"><diagram name="Page-1" id="CxP3ihrh33-720mjl4FX">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-03-12T17:53:05.495Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.69" etag="8Fi4zm7SGbPWpF164Nwk" version="21.0.6" type="github">
+  <diagram name="Page-1" id="CxP3ihrh33-720mjl4FX">
+    <mxGraphModel dx="1371" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Xmdy9W3AYmFhp-Yp_AOq-1" value="Mountain View&lt;br&gt;Wi-Fi VLAN 10&lt;br&gt;Main &quot;personal&quot; network" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="220" y="100" width="470" height="600" as="geometry" />
+        </mxCell>
+        <mxCell id="Xmdy9W3AYmFhp-Yp_AOq-7" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.wifi;pointerEvents=1" vertex="1" parent="1">
+          <mxGeometry x="260" y="150" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Xmdy9W3AYmFhp-Yp_AOq-8" value="My Laptop - DHCP .101" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.laptop_2;" vertex="1" parent="1">
+          <mxGeometry x="283" y="221" width="116" height="86.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Xmdy9W3AYmFhp-Yp_AOq-11" value="Wife&#39;s Laptop - .121" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.laptop_2;" vertex="1" parent="1">
+          <mxGeometry x="283" y="351" width="116" height="86.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Xmdy9W3AYmFhp-Yp_AOq-12" value="Wife Tablet - .123" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.tablet_ipad;" vertex="1" parent="1">
+          <mxGeometry x="590" y="374" width="39" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="Xmdy9W3AYmFhp-Yp_AOq-13" value="Wife Phone - 122" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/smart-phones-technologies/128/iphone-color.png" vertex="1" parent="1">
+          <mxGeometry x="460" y="357.25" width="74" height="74" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
