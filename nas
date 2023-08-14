@@ -1,0 +1,10 @@
+
+- htop
+tmux
+neofetch
+
+
+
+
+
+mergerfs
