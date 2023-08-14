@@ -1,0 +1,10 @@
+---
+- hosts: localhost
+  become: true
+
+  roles:
+#    - docker
+#    - mergerfs
+#    - snapraid
+    - common
+    - nas

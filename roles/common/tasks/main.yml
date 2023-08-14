@@ -1,0 +1,6 @@
+---
+ - name: Install common toolsx
+   apt: 
+    name:
+     - neofetch
+     - htop
