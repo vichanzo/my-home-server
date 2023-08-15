@@ -1,0 +1,17 @@
+sergroups:
+  - family
+  - admins
+
+users:
+  - {name: 'vince', groups: 'family, admins', smbpasswd: 'mainuser'}
+  - {name: 'iesha', groups: 'family', smbpasswd: 'otheruser'}
+  - {name: 'delilah', groups: 'family', smbpasswd: 'thirduser'}
+  - {name: 'test', groups: ' ', smbpasswd: 'test'}
+
+adminuser: vince # should be an existing one from above
+
+shared_folders:
+  - {name: 'Images', path: '/share/media/images'}
+  - {name: 'Music', path: '/share/media/music'}
+  - {name: 'Shared folder', path: '/share/home/all'}
+  - {name: 'Shared Backup Folder', path: '/share/bkup'}

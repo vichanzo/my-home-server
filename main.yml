@@ -7,4 +7,5 @@
 #    - mergerfs
 #    - snapraid
     - common
-    - nas
+    - nfs
+    - samba

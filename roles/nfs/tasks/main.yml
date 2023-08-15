@@ -1,0 +1,17 @@
+---
+- name: install nfs
+  apt:
+    pkg: nfs-kernel-server
+    state: present
+  notify:
+    - start nfs service
+
+- name: install nfs config
+  copy:
+    src: exports
+    dest: /etc/exports
+    owner: root
+    group: root
+  notify:
+    - exportfs
+    - restart nfs service

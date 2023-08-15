@@ -1,0 +1,5 @@
+# /etc/exports
+
+/share/Media/movies       *(ro,sync,no_root_squash)
+/share/Media/tv           *(ro,sync,no_root_squash)
+/share/Media/music        *(ro,sync,no_root_squash)
