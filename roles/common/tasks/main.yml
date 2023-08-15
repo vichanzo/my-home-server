@@ -11,16 +11,24 @@
     name: share
     state: present
 
-- name: Create directory application
+- name: Create directories disk*
   file:
     path: "{{item}}"
     state: directory
-    
     mode: 0755
   with_items:
      - "/media/disk1"
      - "/media/disk2"
      - "/media/disk3"
+
+- name: Create directories disk*
+  file:
+    path: "{{item}}"
+    state: directory
+    owner: root
+    group: share    
+    mode: 0775
+  with_items:
      - "/share/Media/tv"
      - "/share/Media/music"
      - "/share/Media/movies"
