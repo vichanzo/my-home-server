@@ -1,6 +1,27 @@
 ---
- - name: Install common toolsx
-   apt: 
+- name: Install common tools
+  apt: 
     name:
      - neofetch
      - htop
+    state: latest
+
+- name: Create group share
+  group:
+    name: share
+    state: present
+
+- name: Create directory application
+  file:
+    path: "{{item}}"
+    state: directory
+    
+    mode: 0755
+  with_items:
+     - "/media/disk1"
+     - "/media/disk2"
+     - "/media/disk3"
+     - "/share/Media/tv"
+     - "/share/Media/music"
+     - "/share/Media/movies"
+

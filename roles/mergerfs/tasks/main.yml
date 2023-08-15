@@ -1,0 +1,14 @@
+---
+- name: mergerfs
+  apt:
+    name:
+      - mergerfs
+    state: present
+
+- name: mount mergerfs array
+  mount:
+    name: /mnt/storage
+    src: /mnt/disk*
+    opts: defaults,allow_other,minfreespace=50G,fsname=mergerfs
+    fstype: fuse.mergerfs
+    state: present

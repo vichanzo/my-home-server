@@ -1,0 +1,38 @@
+---
+ - name: Install common tools
+   apt: 
+     name:
+      - neofetch
+      - htop
+     state: latest
+
+ - name: Create group share
+   group:
+     name: share
+     state: present
+
+ - name: Create directories
+   file:
+     path: "/share/Media/tv"
+     owner: root
+     group: share
+     recurse: true
+     mode: 0775 
+
+ - name: Create directories
+   file:
+     path: "/share/Media/movies"
+     owner: root
+     group: share
+     recurse: true
+     mode: 0775 
+
+ - name: Create directories
+   file:
+     path: "/share/Media/music"
+     owner: root
+     group: share
+     recurse: true
+     mode: 0775
+
+

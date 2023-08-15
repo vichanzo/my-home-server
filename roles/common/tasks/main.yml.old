@@ -1,0 +1,26 @@
+---
+ - name: Install common tools
+   apt: 
+     name:
+      - neofetch
+      - htop
+     state: latest
+
+ - name: Create group share
+   group:
+     name: share
+     state: present
+
+ - name: Change permissions from /SM/data-drive/sm_sites etc...
+   file:
+     dest: "{{ item }}"
+     owner: root
+     group: root    
+     recurse: true 
+     # supposed to set directories to 755 and files to 644
+     mode: u=rwX,g=rX,o=rX
+   with_items:
+      - /SM/data-drive/sm_sites
+      - /SM/data-drive/smw_dams
+      - /SM/data-drive/smw_wikis
+
