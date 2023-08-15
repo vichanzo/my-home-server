@@ -3,9 +3,9 @@
   become: true
 
   roles:
-#    - docker
+    - docker
 #    - mergerfs
 #    - snapraid
     - common
-    - nfs
+#    - nfs
     - samba

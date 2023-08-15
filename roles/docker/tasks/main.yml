@@ -1,0 +1,37 @@
+---
+- name: install packages required by docker
+  apt:
+    name:
+      - apt-transport-https
+      - ca-certificates 
+      - curl 
+      - gnupg2 
+      - software-properties-common
+    state: present
+
+- name: add docker repository key
+  apt_key:
+    url: "https://download.docker.com/linux/debian/gpg"
+    state: present
+
+#- name: add docker repository
+#  apt_repository:
+#    repot: "deb [arch=amd64] https://download.docker.com/linux/debian-buster stable"
+#    repo: "deb [arch={{ ansible_architecture }}] https://download.docker.com/linux/{{ ansible_distribution | lower }} {{ ansible_distribution_release }} stable"
+#    update_cache: yes
+#    state: present
+#    filename: docker
+
+- name: install Docker
+  apt:
+    name:
+      - docker-ce
+      - docker-ce-cli
+      - containerd.io
+    state: latest
+#    update_cache: true
+
+- name: start docker
+  service:
+    name: docker
+    state: started
