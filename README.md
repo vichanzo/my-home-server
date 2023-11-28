@@ -6,3 +6,6 @@ Conceptual Drawing of the my network:
 
 Jorge
 <img src='./media/JorgeNetwork.drawio.png'>
+
+Check this out:
+https://github.com/ironicbadger/infra 
