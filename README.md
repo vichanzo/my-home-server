@@ -1,4 +1,5 @@
 # my-home-server
 To do and Ideas for my home server
 
-<img src='./media/network.drawio.png' width=60%>
+Conceptual Drawing of the my network:
+<img src='./media/network.drawio.png'>
