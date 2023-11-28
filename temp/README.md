@@ -19,3 +19,6 @@ VLAN | Desc | CIDR | Gateway
 90	|Media	| 192.168.90.0/24	|
 100	|IOT	| 192.168.100.0/24	|
 172	|Sandbox |	172.17.0.0/24	|
+
+
+https://networkengineering.stackexchange.com/questions/7106/how-do-you-calculate-the-prefix-network-subnet-and-host-numbers
