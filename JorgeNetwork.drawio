@@ -1,9 +1,30 @@
-<mxfile host="app.diagrams.net" modified="2023-11-28T10:30:36.544Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:120.0) Gecko/20100101 Firefox/120.0" etag="EWhZ1U0CKoAo99ix8ULE" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-28T10:42:25.855Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:120.0) Gecko/20100101 Firefox/120.0" etag="iT_XN6FASzFAF8j7bO4I" version="21.6.6" type="github">
   <diagram name="Page-1" id="CxP3ihrh33-720mjl4FX">
-    <mxGraphModel dx="4106" dy="1096" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+    <mxGraphModel dx="4788" dy="1534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="f9S0Ih7G6LH_ITrqh4dT-89" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-1000" y="1739" width="890" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="f9S0Ih7G6LH_ITrqh4dT-81" value="&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Personal Computers&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A9C4EB;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=top;" vertex="1" parent="f9S0Ih7G6LH_ITrqh4dT-89">
+          <mxGeometry width="890" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="f9S0Ih7G6LH_ITrqh4dT-82" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.laptop;" vertex="1" parent="f9S0Ih7G6LH_ITrqh4dT-89">
+          <mxGeometry x="90" y="91" width="150" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="f9S0Ih7G6LH_ITrqh4dT-83" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.laptop;" vertex="1" parent="f9S0Ih7G6LH_ITrqh4dT-89">
+          <mxGeometry x="390" y="91" width="150" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="f9S0Ih7G6LH_ITrqh4dT-84" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.laptop;" vertex="1" parent="f9S0Ih7G6LH_ITrqh4dT-89">
+          <mxGeometry x="699" y="91" width="150" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="f9S0Ih7G6LH_ITrqh4dT-85" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/flatforlinux/128/9-Mac%20Mini%20CD.png" vertex="1" parent="f9S0Ih7G6LH_ITrqh4dT-89">
+          <mxGeometry x="230" y="271" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="f9S0Ih7G6LH_ITrqh4dT-86" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/fruit-136/64/Fruit_iconfree_Filled_Outline_raspberry-healthy-organic-food-fruit_icon-128.png" vertex="1" parent="f9S0Ih7G6LH_ITrqh4dT-89">
+          <mxGeometry x="540" y="271" width="128" height="128" as="geometry" />
+        </mxCell>
         <mxCell id="Xmdy9W3AYmFhp-Yp_AOq-49" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-740" y="1180" width="410" height="400" as="geometry" />
         </mxCell>
@@ -30,36 +51,6 @@
         </mxCell>
         <mxCell id="Xmdy9W3AYmFhp-Yp_AOq-101" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/internet_cloud.svg;" parent="1" vertex="1">
           <mxGeometry x="-1150" y="20" width="362.71" height="228.5" as="geometry" />
-        </mxCell>
-        <mxCell id="Xmdy9W3AYmFhp-Yp_AOq-124" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="-240" y="1590" width="660" height="520" as="geometry" />
-        </mxCell>
-        <mxCell id="Xmdy9W3AYmFhp-Yp_AOq-112" value="Relay" style="group" parent="Xmdy9W3AYmFhp-Yp_AOq-124" vertex="1" connectable="0">
-          <mxGeometry width="660" height="520" as="geometry" />
-        </mxCell>
-        <mxCell id="Xmdy9W3AYmFhp-Yp_AOq-103" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Internet of Things&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;SSID = Lights&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;b&gt;Wi-Fi VLAN 60&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;10.60.0.1/24&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#fff2cc;strokeColor=#d6b656;" parent="Xmdy9W3AYmFhp-Yp_AOq-112" vertex="1">
-          <mxGeometry width="660" height="520" as="geometry" />
-        </mxCell>
-        <mxCell id="Xmdy9W3AYmFhp-Yp_AOq-106" value="Doo" style="sketch=0;points=[[0.5,0,0],[1,0.5,0],[0.5,1,0],[0,0.5,0],[0.145,0.145,0],[0.8555,0.145,0],[0.855,0.8555,0],[0.145,0.855,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.lock;fillColor=#005073;strokeColor=none;" parent="Xmdy9W3AYmFhp-Yp_AOq-112" vertex="1">
-          <mxGeometry x="75" y="320" width="110" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="Xmdy9W3AYmFhp-Yp_AOq-107" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.lightbulb;" parent="Xmdy9W3AYmFhp-Yp_AOq-112" vertex="1">
-          <mxGeometry x="52" y="90" width="156" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="Xmdy9W3AYmFhp-Yp_AOq-108" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#3333FF;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.lightbulb;" parent="Xmdy9W3AYmFhp-Yp_AOq-112" vertex="1">
-          <mxGeometry x="260" y="111" width="148" height="148" as="geometry" />
-        </mxCell>
-        <mxCell id="Xmdy9W3AYmFhp-Yp_AOq-109" value="Relys" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#0000FF;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.iot_thing_relay;" parent="Xmdy9W3AYmFhp-Yp_AOq-112" vertex="1">
-          <mxGeometry x="470" y="120.5" width="129" height="129" as="geometry" />
-        </mxCell>
-        <mxCell id="Xmdy9W3AYmFhp-Yp_AOq-110" value="Light Switch" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/pursuit/24/lightswitch.png" parent="Xmdy9W3AYmFhp-Yp_AOq-112" vertex="1">
-          <mxGeometry x="270" y="315" width="120" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="Xmdy9W3AYmFhp-Yp_AOq-111" value="LED Lights" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/energy-and-power-glyph-24-px/24/Lamp_electric_light_led_bulb_light_bulb_luminaire-128.png" parent="Xmdy9W3AYmFhp-Yp_AOq-112" vertex="1">
-          <mxGeometry x="450" y="330" width="120" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="Xmdy9W3AYmFhp-Yp_AOq-118" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/new-year-s-hand-drawn-basic/64/stage-128.png" parent="Xmdy9W3AYmFhp-Yp_AOq-124" vertex="1">
-          <mxGeometry x="450" y="10" width="128" height="128" as="geometry" />
         </mxCell>
         <mxCell id="Xmdy9W3AYmFhp-Yp_AOq-90" value="L" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-1410" y="350" width="1860" height="362" as="geometry" />
@@ -97,8 +88,26 @@
         <mxCell id="f9S0Ih7G6LH_ITrqh4dT-48" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;LAN4&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Xmdy9W3AYmFhp-Yp_AOq-90">
           <mxGeometry x="1660" y="51.43000000000002" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="f9S0Ih7G6LH_ITrqh4dT-66" value="" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="-40" y="1231" width="222" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="f9S0Ih7G6LH_ITrqh4dT-78" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" target="Xmdy9W3AYmFhp-Yp_AOq-91">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="1320" as="sourcePoint" />
+            <mxPoint x="-380" y="1290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f9S0Ih7G6LH_ITrqh4dT-79" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b style=&quot;background-color: initial; font-size: 19px;&quot;&gt;Access Point&lt;/b&gt;&lt;/div&gt;&lt;b style=&quot;font-size: 19px;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;TP Link Omada&lt;/b&gt;&lt;/div&gt;&lt;/b&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.wi_fi;" vertex="1" parent="1">
+          <mxGeometry x="300" y="1370" width="102" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="f9S0Ih7G6LH_ITrqh4dT-80" value="" style="endArrow=none;html=1;rounded=0;exitX=0.811;exitY=0.556;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="f9S0Ih7G6LH_ITrqh4dT-66" target="f9S0Ih7G6LH_ITrqh4dT-79">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-430" y="1340" as="sourcePoint" />
+            <mxPoint x="-380" y="1290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="f9S0Ih7G6LH_ITrqh4dT-53" value="L" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-1120" y="790" width="1580" height="520" as="geometry" />
+          <mxGeometry x="-1120" y="790" width="1800" height="1480" as="geometry" />
         </mxCell>
         <mxCell id="f9S0Ih7G6LH_ITrqh4dT-54" value="&lt;div&gt;&lt;b&gt;1 GB Switch&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;(Managed)&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="f9S0Ih7G6LH_ITrqh4dT-53">
           <mxGeometry x="8.494623655913978" width="1580" height="362" as="geometry" />
@@ -124,23 +133,41 @@
         <mxCell id="Xmdy9W3AYmFhp-Yp_AOq-91" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b style=&quot;background-color: initial; font-size: 19px;&quot;&gt;Access Point&lt;/b&gt;&lt;/div&gt;&lt;b style=&quot;font-size: 19px;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;TP Link Omada&lt;/b&gt;&lt;/div&gt;&lt;/b&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.wi_fi;" parent="f9S0Ih7G6LH_ITrqh4dT-53" vertex="1">
           <mxGeometry x="1420" y="418" width="102" height="102" as="geometry" />
         </mxCell>
-        <mxCell id="f9S0Ih7G6LH_ITrqh4dT-66" value="" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="-40" y="1231" width="222" height="160" as="geometry" />
+        <mxCell id="Xmdy9W3AYmFhp-Yp_AOq-124" value="" style="group" parent="f9S0Ih7G6LH_ITrqh4dT-53" vertex="1" connectable="0">
+          <mxGeometry x="1120" y="940" width="680" height="540" as="geometry" />
         </mxCell>
-        <mxCell id="f9S0Ih7G6LH_ITrqh4dT-78" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" target="Xmdy9W3AYmFhp-Yp_AOq-91">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="140" y="1320" as="sourcePoint" />
-            <mxPoint x="-380" y="1290" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="Xmdy9W3AYmFhp-Yp_AOq-112" value="Relay" style="group" parent="Xmdy9W3AYmFhp-Yp_AOq-124" vertex="1" connectable="0">
+          <mxGeometry width="680" height="540" as="geometry" />
         </mxCell>
-        <mxCell id="f9S0Ih7G6LH_ITrqh4dT-79" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b style=&quot;background-color: initial; font-size: 19px;&quot;&gt;Access Point&lt;/b&gt;&lt;/div&gt;&lt;b style=&quot;font-size: 19px;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;TP Link Omada&lt;/b&gt;&lt;/div&gt;&lt;/b&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.wi_fi;" vertex="1" parent="1">
-          <mxGeometry x="300" y="1370" width="102" height="102" as="geometry" />
+        <mxCell id="Xmdy9W3AYmFhp-Yp_AOq-103" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Internet of Things&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;SSID = Lights&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;b&gt;Wi-Fi VLAN 60&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;10.60.0.1/24&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#fff2cc;strokeColor=#d6b656;" parent="Xmdy9W3AYmFhp-Yp_AOq-112" vertex="1">
+          <mxGeometry width="680" height="540" as="geometry" />
         </mxCell>
-        <mxCell id="f9S0Ih7G6LH_ITrqh4dT-80" value="" style="endArrow=none;html=1;rounded=0;exitX=0.811;exitY=0.556;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="f9S0Ih7G6LH_ITrqh4dT-66" target="f9S0Ih7G6LH_ITrqh4dT-79">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-430" y="1340" as="sourcePoint" />
-            <mxPoint x="-380" y="1290" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="Xmdy9W3AYmFhp-Yp_AOq-106" value="Doo" style="sketch=0;points=[[0.5,0,0],[1,0.5,0],[0.5,1,0],[0,0.5,0],[0.145,0.145,0],[0.8555,0.145,0],[0.855,0.8555,0],[0.145,0.855,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.lock;fillColor=#005073;strokeColor=none;" parent="Xmdy9W3AYmFhp-Yp_AOq-112" vertex="1">
+          <mxGeometry x="77.27272727272727" y="332.3076923076923" width="113.33333333333333" height="113.33333333333333" as="geometry" />
+        </mxCell>
+        <mxCell id="Xmdy9W3AYmFhp-Yp_AOq-107" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.lightbulb;" parent="Xmdy9W3AYmFhp-Yp_AOq-112" vertex="1">
+          <mxGeometry x="53.57575757575758" y="93.46153846153847" width="160.72727272727272" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="Xmdy9W3AYmFhp-Yp_AOq-108" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#3333FF;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.lightbulb;" parent="Xmdy9W3AYmFhp-Yp_AOq-112" vertex="1">
+          <mxGeometry x="267.8787878787879" y="115.26923076923077" width="152.48484848484847" height="152.48484848484847" as="geometry" />
+        </mxCell>
+        <mxCell id="Xmdy9W3AYmFhp-Yp_AOq-109" value="Relys" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#0000FF;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.iot_thing_relay;" parent="Xmdy9W3AYmFhp-Yp_AOq-112" vertex="1">
+          <mxGeometry x="484.24242424242425" y="125.1346153846154" width="132.9090909090909" height="132.9090909090909" as="geometry" />
+        </mxCell>
+        <mxCell id="Xmdy9W3AYmFhp-Yp_AOq-110" value="Light Switch" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/pursuit/24/lightswitch.png" parent="Xmdy9W3AYmFhp-Yp_AOq-112" vertex="1">
+          <mxGeometry x="278.1818181818182" y="327.11538461538464" width="123.63636363636363" height="123.63636363636363" as="geometry" />
+        </mxCell>
+        <mxCell id="Xmdy9W3AYmFhp-Yp_AOq-111" value="LED Lights" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/energy-and-power-glyph-24-px/24/Lamp_electric_light_led_bulb_light_bulb_luminaire-128.png" parent="Xmdy9W3AYmFhp-Yp_AOq-112" vertex="1">
+          <mxGeometry x="463.6363636363636" y="342.69230769230774" width="123.63636363636363" height="123.63636363636363" as="geometry" />
+        </mxCell>
+        <mxCell id="Xmdy9W3AYmFhp-Yp_AOq-118" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/new-year-s-hand-drawn-basic/64/stage-128.png" parent="Xmdy9W3AYmFhp-Yp_AOq-124" vertex="1">
+          <mxGeometry x="450" y="10" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="f9S0Ih7G6LH_ITrqh4dT-87" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="f9S0Ih7G6LH_ITrqh4dT-53">
+          <mxGeometry x="810" y="80" width="169.89" height="960" as="geometry" />
+        </mxCell>
+        <mxCell id="f9S0Ih7G6LH_ITrqh4dT-88" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f9S0Ih7G6LH_ITrqh4dT-84" target="f9S0Ih7G6LH_ITrqh4dT-87">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
