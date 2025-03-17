@@ -1,29 +1,26 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0" version="26.1.1">
   <diagram name="Page-1" id="XPaBfZjM7zRV51UBA6gc">
-    <mxGraphModel dx="2347" dy="1131" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2046" dy="1131" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="MZxmPqwpaUyvOTy3HO-6-4" value="&amp;nbsp; Guest Room" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;arcSize=4;" vertex="1" parent="1">
+        <mxCell id="MZxmPqwpaUyvOTy3HO-6-4" value="&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp; Guest Room&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;arcSize=4;" vertex="1" parent="1">
           <mxGeometry x="870" y="512.5" width="610" height="540" as="geometry" />
         </mxCell>
         <mxCell id="MZxmPqwpaUyvOTy3HO-6-34" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1090" y="770" width="140" height="170" as="geometry" />
+          <mxGeometry x="1091" y="765" width="140" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="MZxmPqwpaUyvOTy3HO-6-32" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.application_server;" vertex="1" parent="MZxmPqwpaUyvOTy3HO-6-34">
-          <mxGeometry width="140" height="169.99999999999997" as="geometry" />
+        <mxCell id="MZxmPqwpaUyvOTy3HO-6-32" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Proxmox&lt;/font&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.application_server;" vertex="1" parent="MZxmPqwpaUyvOTy3HO-6-34">
+          <mxGeometry width="140" height="179.99999999999997" as="geometry" />
         </mxCell>
         <mxCell id="MZxmPqwpaUyvOTy3HO-6-33" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.cluster_server;" vertex="1" parent="MZxmPqwpaUyvOTy3HO-6-34">
-          <mxGeometry x="82.96296296296296" y="123.10344827586206" width="25.407407407407405" height="34.58620689655172" as="geometry" />
+          <mxGeometry x="82.96296296296296" y="130.3448275862069" width="25.407407407407405" height="36.62068965517241" as="geometry" />
         </mxCell>
-        <mxCell id="MZxmPqwpaUyvOTy3HO-6-2" value="&#xa;&lt;div&gt;Family Room (TV Stand)&lt;/div&gt;&#xa;&#xa;" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;arcSize=4;" vertex="1" parent="1">
-          <mxGeometry x="70" y="520" width="580" height="525" as="geometry" />
+        <mxCell id="MZxmPqwpaUyvOTy3HO-6-2" value="&lt;br&gt;&lt;div&gt;&amp;nbsp; Family Room (TV Stand)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;arcSize=4;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="80" y="520" width="580" height="525" as="geometry" />
         </mxCell>
-        <mxCell id="MZxmPqwpaUyvOTy3HO-6-3" value="&amp;nbsp; Upstairs" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;arcSize=4;" vertex="1" parent="1">
+        <mxCell id="MZxmPqwpaUyvOTy3HO-6-3" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &lt;font style=&quot;font-size: 16px;&quot;&gt;2nd Floor Switch&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;arcSize=4;" vertex="1" parent="1">
           <mxGeometry x="50" y="20" width="545" height="350" as="geometry" />
-        </mxCell>
-        <mxCell id="MZxmPqwpaUyvOTy3HO-6-11" value="" style="points=[[0.03,0.36,0],[0.18,0,0],[0.5,0.34,0],[0.82,0,0],[0.97,0.36,0],[1,0.67,0],[0.975,0.975,0],[0.5,1,0],[0.025,0.975,0],[0,0.67,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.wireless_access_point;fillColor=#005073;strokeColor=none;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="390" y="730" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="MZxmPqwpaUyvOTy3HO-6-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MZxmPqwpaUyvOTy3HO-6-12" target="MZxmPqwpaUyvOTy3HO-6-11">
           <mxGeometry relative="1" as="geometry" />
@@ -34,20 +31,26 @@
         <mxCell id="MZxmPqwpaUyvOTy3HO-6-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MZxmPqwpaUyvOTy3HO-6-12" target="MZxmPqwpaUyvOTy3HO-6-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MZxmPqwpaUyvOTy3HO-6-12" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/security/Router_VPN.svg;" vertex="1" parent="1">
-          <mxGeometry x="240" y="610" width="126.82" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="MZxmPqwpaUyvOTy3HO-6-13" value="" style="shape=mxgraph.cisco.modems_and_phones.cable_modem;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="110" y="620" width="74" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="MZxmPqwpaUyvOTy3HO-6-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.249;entryY=1.005;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MZxmPqwpaUyvOTy3HO-6-13" target="MZxmPqwpaUyvOTy3HO-6-12">
+        <mxCell id="MZxmPqwpaUyvOTy3HO-6-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MZxmPqwpaUyvOTy3HO-6-12" target="MZxmPqwpaUyvOTy3HO-6-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MZxmPqwpaUyvOTy3HO-6-21" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.wi_fi;rotation=-45;" vertex="1" parent="1">
-          <mxGeometry x="540" y="550" width="50" height="50" as="geometry" />
+        <mxCell id="MZxmPqwpaUyvOTy3HO-6-12" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Mikrotik Router&lt;/font&gt;" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/security/Router_VPN.svg;" vertex="1" parent="1">
+          <mxGeometry x="240" y="610" width="126.82" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="MZxmPqwpaUyvOTy3HO-6-13" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Internet&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Provider&lt;/font&gt;&lt;/div&gt;" style="shape=mxgraph.cisco.modems_and_phones.cable_modem;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="634" width="74" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MZxmPqwpaUyvOTy3HO-6-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MZxmPqwpaUyvOTy3HO-6-13" target="MZxmPqwpaUyvOTy3HO-6-12">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MZxmPqwpaUyvOTy3HO-6-22" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.switch;" vertex="1" parent="1">
           <mxGeometry x="980" y="631.5" width="130" height="48.5" as="geometry" />
+        </mxCell>
+        <mxCell id="MZxmPqwpaUyvOTy3HO-6-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="368" y="120.57142857142867" as="sourcePoint" />
+            <mxPoint x="460" y="134.57142857142867" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="MZxmPqwpaUyvOTy3HO-6-26" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.switch;" vertex="1" parent="1">
           <mxGeometry x="238" y="100" width="130" height="47" as="geometry" />
@@ -60,8 +63,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="MZxmPqwpaUyvOTy3HO-6-30" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.workstation_pc;" vertex="1" parent="1">
-          <mxGeometry x="1260" y="740" width="130" height="180" as="geometry" />
+        <mxCell id="MZxmPqwpaUyvOTy3HO-6-30" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Proxmox / Windows&lt;/font&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.workstation_pc;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="765" width="130" height="180" as="geometry" />
         </mxCell>
         <mxCell id="MZxmPqwpaUyvOTy3HO-6-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#0050ef;strokeColor=#001DBC;jumpSize=18;" edge="1" parent="1" source="MZxmPqwpaUyvOTy3HO-6-32" target="MZxmPqwpaUyvOTy3HO-6-22">
           <mxGeometry relative="1" as="geometry">
@@ -70,6 +73,55 @@
               <mxPoint x="1045" y="710" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="MZxmPqwpaUyvOTy3HO-6-38" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.security_camera;" vertex="1" parent="1">
+          <mxGeometry x="460" y="100" width="100" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="MZxmPqwpaUyvOTy3HO-6-40" value="" style="points=[[0.22,0.185,0],[0.5,0,0],[0.78,0.185,0],[0.975,0.49,0],[1,0.73,0],[0.975,0.97,0],[0.5,1,0],[0.025,0.97,0],[0,0.73,0],[0.025,0.49,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.printer;fillColor=#005073;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="120" y="210" width="88.89" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MZxmPqwpaUyvOTy3HO-6-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.371;entryY=-0.012;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MZxmPqwpaUyvOTy3HO-6-26" target="MZxmPqwpaUyvOTy3HO-6-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MZxmPqwpaUyvOTy3HO-6-44" value="&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;CC-RTR1&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Mikrotik Router&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Model hEX RB750&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;5 Network Ports&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;1 - (WAN) Internet Provider&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;2 - Access Point (TP Link Omada)&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;3 - PF sense + Proxmox &lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;4 - NAS (NUC)&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;5 - Second floor Switch &lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1140" width="330" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="MZxmPqwpaUyvOTy3HO-6-47" value="&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;CC-Media-NAS&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;NAS + Media Server 8TB&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Intel NUC i5 Board&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;br&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;IcyDock 4 Bay Dock &lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;4 x 2TB 2.5 Drives&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;2.5 Gb/sec NIC &lt;/b&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;- direct connection to high speed switch&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Docker&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp;- PiHole&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp;- Home Assistant&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp;- Jellyfin&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp; &lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;spacingLeft=29;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1440" width="330" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="MZxmPqwpaUyvOTy3HO-6-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MZxmPqwpaUyvOTy3HO-6-48" target="MZxmPqwpaUyvOTy3HO-6-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="580" y="850" />
+              <mxPoint x="1045" y="850" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MZxmPqwpaUyvOTy3HO-6-52" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;VLAN 10 Access &lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MZxmPqwpaUyvOTy3HO-6-51">
+          <mxGeometry x="-0.3814" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MZxmPqwpaUyvOTy3HO-6-48" value="NAS" style="fontColor=#000000;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.nas_filer;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="530" y="765" width="100" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="MZxmPqwpaUyvOTy3HO-6-50" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="319.6446609406726" y="730" width="160.35533905932738" height="110.35533905932743" as="geometry" />
+        </mxCell>
+        <mxCell id="MZxmPqwpaUyvOTy3HO-6-11" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Access Point&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;TP Link&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Omada AC1300&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="points=[[0.03,0.36,0],[0.18,0,0],[0.5,0.34,0],[0.82,0,0],[0.97,0.36,0],[1,0.67,0],[0.975,0.975,0],[0.5,1,0],[0.025,0.975,0],[0,0.67,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.wireless_access_point;fillColor=#005073;strokeColor=none;rotation=0;" vertex="1" parent="MZxmPqwpaUyvOTy3HO-6-50">
+          <mxGeometry x="70.35533905932738" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="MZxmPqwpaUyvOTy3HO-6-21" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.wi_fi;rotation=-45;" vertex="1" parent="MZxmPqwpaUyvOTy3HO-6-50">
+          <mxGeometry x="10.355339059327378" y="50" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MZxmPqwpaUyvOTy3HO-6-53" value="&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;CC-PRXMX-HOST1&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Workstation Hosts + Heavy servers&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp;&lt;/font&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;- MacOS (GPU #1 - AMD RX580)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp;- Windows (GPU #2 - nVIDIA GTX1060)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp;- Linux&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp;- Windows 2016 + 2022 Servers &lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Specs:&lt;/div&gt;&lt;div&gt;&amp;nbsp;- Ryzen 5, 2600 (12nm) 6 Core, 3.4 GHz, 3.9 Turbo&lt;/div&gt;&lt;div&gt;&amp;nbsp;- 16 GB RAM 3200 Mhz&lt;/div&gt;&lt;div&gt;&amp;nbsp;- GPU #1 - AMD RX580, 8GB vRAM&lt;/div&gt;&lt;div&gt;&amp;nbsp;- GPU #2 - NVIDIA GTX1060, 3GB vRAM&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;spacingLeft=29;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="890" y="1537" width="330" height="393" as="geometry" />
+        </mxCell>
+        <mxCell id="MZxmPqwpaUyvOTy3HO-6-54" value="&lt;div align=&quot;left&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;CC-MyDesktop-W11&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Windows 11 main rig&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;43&quot; 4k TV as Monitor&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;- gaming&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;- office&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;- video editing&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;- occasional machine learning&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;- WSL (for linux stuff)&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Dual Boot to Proxmox as needed&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Specs:&lt;/div&gt;&lt;div&gt;- Ryzen 5, 5600G (7nm) 6 Core, 3.4 GHz, 4.4 Turbo &lt;br&gt;&lt;/div&gt;&lt;div&gt;- 32 GB RAM, 3200 Mhz, 16-18-18&lt;/div&gt;&lt;div&gt;- GPU: Intel ARC A770, 16GB vRAM &lt;br&gt;&lt;/div&gt;&lt;div&gt;- 512 GB NVME&lt;/div&gt;&lt;div&gt;- 1TB SSD&amp;nbsp; &lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;spacingLeft=29;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="1536" width="330" height="395" as="geometry" />
+        </mxCell>
+        <mxCell id="MZxmPqwpaUyvOTy3HO-6-56" value="&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;CC-LowPower&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;b&gt;Lenovo Media PC&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Batocera Linux&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;spacingLeft=29;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="890" y="1110" width="330" height="310" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
